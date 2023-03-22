@@ -1,0 +1,11 @@
+{
+  "name": "intelion_test",
+  "version": "1.0.0",
+  "description": "auth setup for intelion test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shubhamjain",
+  "license": "ISC"
+}
